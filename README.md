@@ -14,3 +14,5 @@ This is to be achieved through the training of some form of machine learning mod
 These articles are to be used to extract information on the differences between hyperpartisan articles and non-hyperpartisan articles through the use of numerous techniques. 
 This information is then given to the model to use as reference for any future articles it might be handed in order to decypher whether it is a hyperpartisan piece or not.
 In order to validate the training, 150000 articles will be run through the model so it can predict wether each article is biased or not. The effectiveness will be measured on the accuracy of the predicitons. 
+
+https://www.aclweb.org/anthology/S19-2145/
