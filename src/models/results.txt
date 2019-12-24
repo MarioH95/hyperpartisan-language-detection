@@ -1,0 +1,22 @@
+tfidf = Accuracy: 74.44383333333333
+	Precision: 75.39811617171766
+	Recall: 72.59829874288228
+	F1: 73.97172378322134
+char = 62
+word = 55.9
+sent = 62.052
+doc = 60.821
+embedding = 58
+tfidf + char =  Accuracy: 74.17983333333333
+		Precision: 68.27028087993277
+		Recall: 90.39452772289434
+		F1: 77.7899000035841
+tfidf + char + word = 74.18
+tfidf + char + sent =   Accuracy: 74.29216666666667
+			Precision: 68.32354463195655
+			Recall: 90.62076226714335
+			F1: 77.90819081392534
+tfidf + char + sent + doc = 	Accuracy: 74.29416666666665
+				Precision: 68.32514394236277
+				Recall: 90.6224282063499
+				F1: 77.90984622039024
